@@ -58,7 +58,7 @@ greenlet = "==2.0.2"
 ordered-set = "==4.1.0"
 pygments = "==2.16.1"
 pyxdg = "==0.28"
-requests = "==2.31.0"
+requests = "==2.32.2"
 slack-bolt = "==1.18.0"
 wcwidth = "==0.2.6"
 
